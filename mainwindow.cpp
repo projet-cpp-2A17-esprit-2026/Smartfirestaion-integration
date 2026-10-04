@@ -24,3 +24,9 @@ void MainWindow::on_stock_6_clicked()
     ui->stackedWidget->setCurrentIndex(1); // page 1
 }
 
+
+void MainWindow::on_vehicules_6_clicked()
+{
+     ui->stackedWidget->setCurrentIndex(2); // page 2
+}
+
