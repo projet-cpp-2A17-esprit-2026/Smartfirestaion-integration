@@ -11,5 +11,6 @@
         <file>image/img3.png</file>
         <file>image/logo.png</file>
         <file>image/no.png</file>
+        <file>image/vehicule.png</file>
     </qresource>
 </RCC>

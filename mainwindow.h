@@ -22,6 +22,8 @@ private slots:
 
     void on_stock_6_clicked();
 
+    void on_vehicules_6_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
