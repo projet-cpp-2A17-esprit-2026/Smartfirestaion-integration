@@ -30,3 +30,9 @@ void MainWindow::on_vehicules_6_clicked()
      ui->stackedWidget->setCurrentIndex(2); // page 2
 }
 
+
+void MainWindow::on_employe_6_clicked()
+{
+     ui->stackedWidget->setCurrentIndex(3); // page 3
+}
+

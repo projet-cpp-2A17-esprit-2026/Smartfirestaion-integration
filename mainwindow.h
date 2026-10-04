@@ -24,6 +24,8 @@ private slots:
 
     void on_vehicules_6_clicked();
 
+    void on_employe_6_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
